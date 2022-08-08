@@ -1,0 +1,6 @@
+pymilvus==2.1.0
+pymysql==1.0.2
+paddlepaddle==2.3.1
+paddlenlp==2.3.4
+fastapi==0.79
+uvicorn==0.18.2
