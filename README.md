@@ -163,9 +163,9 @@ Please copy your files into `search_engine/models/Chinese` or `search_engine/mod
 
 Run: `docker compose up -d`
 
-Visit: `localhost:1234/docs` to read docs
-Visit: `localhost:9000` for Portainer
-Visit: `localhost:19000` for Attu
+* Visit: `localhost:1234/docs` to read docs
+* Visit: `localhost:9000` for Portainer
+* Visit: `localhost:19000` for Attu
 
 ## 💡 Others
 
