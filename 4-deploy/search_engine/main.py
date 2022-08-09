@@ -13,6 +13,7 @@ app = FastAPI()
 app.include_router(sen_to_vec.multilingual.router)
 # app.include_router(search.chinese.router)
 # app.include_router(search.english.router)
+app.include_router(search.multilingual.router)
 
 
 @app.get('/', tags=['首页'])

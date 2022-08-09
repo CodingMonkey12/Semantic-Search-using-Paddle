@@ -1,1 +1,1 @@
-from . import chinese, english
+from . import chinese, english, multilingual

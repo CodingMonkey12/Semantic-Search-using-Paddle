@@ -23,7 +23,7 @@
 #     host=mysql_address,
 #     user='root',
 #     password='123456',
-#     database='chinese',
+#     database='ipc_search',
 #     cursorclass=pymysql.cursors.DictCursor
 # )
 # cursor = conn.cursor()
@@ -58,7 +58,7 @@
 #     for result in milvus_results[0]:
 #         sql = f"""
 #         SELECT *
-#         FROM ipc_search
+#         FROM chinese
 #         WHERE publication_number_sear='{result.id}'
 #         """
 #         cursor.execute(sql)
