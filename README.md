@@ -130,6 +130,7 @@ After running these, you can get the data after preprocessing. Please copy these
 ### Step 2: pretrain
 
 This work takes a long time to pretrain. There is nothing in this step, because I have not time and GPUs to pretrain.
+
 If you want to pretrain, you should take some work in this.
 
 ### Step 3: finetune
