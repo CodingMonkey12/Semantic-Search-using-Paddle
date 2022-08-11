@@ -1,5 +1,7 @@
 # Semantic-Search-using-Paddle
 
+![example](/imgs/example.gif)
+
 ## 🎨 Language
 
 * [English](/README.md)

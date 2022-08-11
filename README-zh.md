@@ -1,5 +1,7 @@
 # 基于Paddle进行语义检索
 
+![example](imgs/example.gif)
+
 ## 🎨 语言
 
 * [English](/README.md)
